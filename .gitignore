@@ -1,0 +1,4 @@
+lisa-discord-bot/.env
+node_modules/
+data-mining/book-downloader/downloads/
+data-mining/text-extraction/extracted/
